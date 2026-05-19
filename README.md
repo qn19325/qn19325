@@ -6,6 +6,4 @@ Software engineer with 3 years building performant, accessible UIs for large-sca
 
 🌱 **Recently learning** App Router patterns, server-side validation with ArkType, and the layered-architecture discipline that comes with shipping full-stack solo.
 
-💬 **Ask me about** game UI performance, Coherent Gameface, or what three years on a live-service AAA team teaches you about shipping.
-
 📫 **Reach me** at jrbhall@outlook.com · [LinkedIn](https://www.linkedin.com/in/joshrbhall)
